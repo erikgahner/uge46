@@ -1,5 +1,4 @@
-Hvilken periode skal analyseres? Uge 46 som dataindsamlingsstrategi i
-journalistikforskningen
+Hvilken periode skal analyseres? Uge 46 som dataindsamlingsstrategi i journalistikforskningen
 ---
 
 ### Beskrivelse
